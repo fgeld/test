@@ -1,6 +1,6 @@
 {
     "Print to Console": {
-        "prefix": "clog",
+        "prefix_N": "clog",
         "body":"console.log()",
         "description": "Log content to the console"
     }
