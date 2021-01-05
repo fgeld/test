@@ -1,0 +1,8 @@
+mpls oam
+ dpm
+  pps 50
+  interval 5
+ !
+!
+snmp-server traps mpls traffic-eng up
+snmp-server traps mpls traffic-eng down
