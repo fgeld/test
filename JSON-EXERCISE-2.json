@@ -1,0 +1,7 @@
+{
+    "Print to Console": {
+        "prefix": "clog",
+        "body":"console.log()",
+        "description": "Log content to the console"
+    }
+}
